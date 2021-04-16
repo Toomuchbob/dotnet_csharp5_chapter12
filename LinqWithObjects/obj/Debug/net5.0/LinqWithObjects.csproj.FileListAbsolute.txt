@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.exe
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.dll
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\ref\LinqWithObjects.dll
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.dll
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\ref\LinqWithObjects.dll
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.genruntimeconfig.cache
